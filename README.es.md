@@ -9,13 +9,9 @@
 
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 ¿Cómo empezar este proyecto?
 
 Crea un archivo de texto con el script que resuelva los planteamientos que están en las instrucciones. Recuerda que debes realizar este proyecto en una computadora o máquina virtual Debian que tenga desplegada una pagina web con Wordpress.
-
-</onlyfor>
 
 ## 📝 Instrucciones
 
